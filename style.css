@@ -6,7 +6,7 @@
  
  .g-signin2 {
      position: absolute;
-  
+     theme: dark;
  }
 
 body  {
