@@ -7,6 +7,8 @@
  .g-signin2 {
      position: absolute;
      size: large;
+     width: 50px;
+     height: 50px
      
  }
 
