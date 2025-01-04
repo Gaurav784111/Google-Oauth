@@ -1,4 +1,4 @@
-i
+
  
  .data {
      display:none;
@@ -13,7 +13,7 @@ body  {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: blue;
+ 
     background-size: cover;
 }
  
