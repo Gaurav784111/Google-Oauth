@@ -6,7 +6,6 @@
  
  .g-signin2 {
      position: absolute;
-     theme: dark;
  }
 
 body  {
@@ -14,7 +13,7 @@ body  {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fjunwjshwzb241.png)  no-repeat;
+    background: url(https://archaeogaming.com/wp-content/uploads/2019/09/assassins-creedc2ae-odyssey_20190303173213.jpg?w=768&h=432) no-repeat;
     background-size: cover;
 }
  
