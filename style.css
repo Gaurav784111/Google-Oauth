@@ -1,4 +1,4 @@
-
+i
  
  .data {
      display:none;
@@ -13,7 +13,7 @@ body  {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(https://images.app.goo.gl/KZTGdy9EACGuC3Vw6) no-repeat;
+    background: url(https://www.economist.com/cdn-cgi/image/width=480,quality=80,format=auto/sites/default/files/images/2013/06/blogs/prospero/20130615_bkp506.jpg) no-repeat;
     background-size: cover;
 }
  
