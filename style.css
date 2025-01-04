@@ -14,7 +14,7 @@ body  {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: (https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fjunwjshwzb241.png)  no-repeat;
+    background-image: url(https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fjunwjshwzb241.png)  no-repeat;
     background-size: cover;
 }
  
