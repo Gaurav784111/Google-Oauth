@@ -1,20 +1,7 @@
-function onSignIn(googleUser) {
-    var profile = googleUser.getBasicProfile();
-    $("#name").text(profile.getName());
-    $("#email").text(profile.getEmail());
-    $("#image").attr('src', profile.getImageUrl());
-    $("#.data").css("display", "block");
-    $(".g-signin2").css("display", "none");
-
-}
-
-
-
-function signOut() {
-    var auth2 = gapi.auth2.getAuthInstance();
-    auth2.signOut().then(function () {
-        alert("You Have Been Signed Out Succesfully");
-        $(".g-signin2").css("display", "block");
-        $("#data").css("display", "none");
-    });
-}
+$(".mail-btn").on("click touchstart", function () {
+    $(this).addClass("fly");
+    that = this
+    setTimeout(function() {
+        $(that).removeClass("fly");
+    }, 5400)
+});
